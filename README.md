@@ -15,7 +15,7 @@ A lightweight, Alamofire-inspired networking package built on top of **URLSessio
 > **Copyright** © 2025 **Arindam Santra** — All rights reserved.
 
 ## Installation (Swift Package Manager)
-In Xcode: **File → Add Packages...** and use the repository URL of this package.
+In Xcode: **File → Add Packages...** and use the  URL-https://github.com/arindam94/ASNetworkKit.git of this package.
 
 ## Quick Start
 
